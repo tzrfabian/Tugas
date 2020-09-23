@@ -19,7 +19,6 @@ int binarySearch(int array[], int size, int searchValue){
 }
 
 int main(){
-	
 	int a[50];
 	int userValue;
 	int n;
